@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nurla\\source\\repos\\MovieProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC69D800-2617-457C-8175-F6E48968A373}|MovieProject\\MovieProject.csproj|c:\\users\\nurla\\source\\repos\\movieproject\\movieproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC69D800-2617-457C-8175-F6E48968A373}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC69D800-2617-457C-8175-F6E48968A373}|MovieProject\\MovieProject.csproj|c:\\users\\nurla\\source\\repos\\movieproject\\movieproject\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC69D800-2617-457C-8175-F6E48968A373}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC69D800-2617-457C-8175-F6E48968A373}|MovieProject\\MovieProject.csproj|c:\\users\\nurla\\source\\repos\\movieproject\\movieproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC69D800-2617-457C-8175-F6E48968A373}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Migrations\\20240813141542_MovieClassAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieProject\\Migrations\\20240813141542_MovieClassAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC69D800-2617-457C-8175-F6E48968A373}|MovieProject\\MovieProject.csproj|c:\\users\\nurla\\source\\repos\\movieproject\\movieproject\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC69D800-2617-457C-8175-F6E48968A373}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC69D800-2617-457C-8175-F6E48968A373}|MovieProject\\MovieProject.csproj|c:\\users\\nurla\\source\\repos\\movieproject\\movieproject\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC69D800-2617-457C-8175-F6E48968A373}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC69D800-2617-457C-8175-F6E48968A373}|MovieProject\\MovieProject.csproj|c:\\users\\nurla\\source\\repos\\movieproject\\movieproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC69D800-2617-457C-8175-F6E48968A373}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC69D800-2617-457C-8175-F6E48968A373}|MovieProject\\MovieProject.csproj|c:\\users\\nurla\\source\\repos\\movieproject\\movieproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC69D800-2617-457C-8175-F6E48968A373}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieProject\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:18:26.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240813141542_MovieClassAdded.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Migrations\\20240813141542_MovieClassAdded.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Migrations\\20240813141542_MovieClassAdded.cs",
+              "ToolTip": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Migrations\\20240813141542_MovieClassAdded.cs",
+              "RelativeToolTip": "MovieProject\\Migrations\\20240813141542_MovieClassAdded.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:15:42.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Program.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Program.cs",
+              "ToolTip": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Program.cs",
+              "RelativeToolTip": "MovieProject\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:11:12.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\appsettings.json",
+              "RelativeToolTip": "MovieProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T14:08:25.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MovieProject\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:08:23.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "MovieProject\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:08:02.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MovieProject\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:06:50.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\nurla\\source\\repos\\MovieProject\\MovieProject\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieProject\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:02:22.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
